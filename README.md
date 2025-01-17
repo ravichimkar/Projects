@@ -1,2 +1,0 @@
-# Projects
-Daily Expence Tracker 
